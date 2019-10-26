@@ -14,4 +14,4 @@ Some consideration
 * For time, it could not be tested because the focus was to organize the code, the structure, the abstraction and modeling
 of the business logic
 
-* Some rules of the  game could be implemented differently with more time, as it was explained, but at least a base approach was build
+* Some rules of the  game could be implemented differently with more time, as it was explained, but at least a base approach was developed
